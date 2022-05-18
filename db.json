@@ -1,0 +1,169 @@
+{
+  "products": [
+    {
+      "title": "Nước hoa nam unnisex",
+      "desc": "Năm 2006, Versace cho ra đời một loại nước hoa làm cả thế giới sửng sốt bởi mùi hương và thiết kế độc đáo, đó là Bright Crystal gợi tình, trong suốt và nổi bật. Lấy cảm hứng từ những sáng tạo độc đáo của người đi trước, Alberto Morillas đã vẻ nên một viên kim cương lấp lánh cho những buổi dạ tiệc lãng mạn để làm nên những câu chuyện tình đầy thăng hoa.",
+      "category": "Nước hoa nữ giới",
+      "img": "http://res.cloudinary.com/vucongluc/image/upload/v1645583932/ijm88e8uu8tyg7uetfwb.jpg",
+      "price": "1000000",
+      "capacity": "20000",
+      "like": 0,
+      "id": "BwlHO4C"
+    },
+    {
+      "title": "Nước hoa nam unnisex",
+      "desc": "Năm 2006, Versace cho ra đời một loại nước hoa làm cả thế giới sửng sốt bởi mùi hương và thiết kế độc đáo, đó là Bright Crystal gợi tình, trong suốt và nổi bật. Lấy cảm hứng từ những sáng tạo độc đáo của người đi trước, Alberto Morillas đã vẻ nên một viên kim cương lấp lánh cho những buổi dạ tiệc lãng mạn để làm nên những câu chuyện tình đầy thăng hoa.",
+      "category": "Nước hoa nữ giới",
+      "img": "http://res.cloudinary.com/vucongluc/image/upload/v1645583934/sfeweijnnjkpmdezxtec.jpg",
+      "price": "1000000",
+      "capacity": "20000",
+      "like": 0,
+      "id": "ctZoaLR"
+    },
+    {
+      "title": "Versace Bright Crystal Absolu",
+      "desc": "Versace Bright Crystal Absolu được mệnh danh là nước hoa của tình yêu nóng bỏng. Tiếp nối sự thành công của Bright Crystal, hãng thời trang danh tiếng thế giới đã cho tung ra một loại nước hoa mạnh hơn, nóng bỏng hơn, cuốn hút hơn vào năm 2013 nhằm thỏa mãn sự mong đợi của những người phụ nữ hiện đại.",
+      "category": "Nước hoa nữ giới",
+      "img": "http://res.cloudinary.com/vucongluc/image/upload/v1645584121/m8yrbikkawugemwf1p0n.webp",
+      "price": "100000",
+      "capacity": "100",
+      "like": 0,
+      "id": "VMtQqPD"
+    },
+    {
+      "title": "Gucci Bloom Deluxe Edition EDP",
+      "desc": "Thương hiệu thời trang nổi tiếng Gucci vừa cho ra mắt phiên bản giới hạn của Gucci Bloom đám mang tên Gucci Bloom Deluxe Edition vào năm 2019 . Phiên bản đặc biệt ngày mang thiết kế vòi bơm kiểu cổ điển sang trọng như những chai nước hoa của giới quý tộc ngày xưa.",
+      "category": "Nước hoa nam cao cấp",
+      "img": "http://res.cloudinary.com/vucongluc/image/upload/v1645584171/ykohvxl5ohrhoimhech9.jpg",
+      "price": "250000",
+      "capacity": "100",
+      "like": 0,
+      "id": "-O_ywck"
+    }
+  ],
+  "users": [
+    {
+      "email": "3winacc1@gmail.com",
+      "password": "$2a$10$zYk5bbekiKyHpryFavheMe3ePLaBghLS7ACqD0.oFIpt9mLradN5q",
+      "username": "Vũ Công Lực",
+      "permissions": 1,
+      "id": 1
+    },
+    {
+      "email": "3winacc2@gmail.com",
+      "password": "$2a$10$zYk5bbekiKyHpryFavheMe3ePLaBghLS7ACqD0.oFIpt9mLradN5q",
+      "username": "Vũ Công Lực",
+      "permissions": 0,
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "category": "Nước hoa nữ giới",
+      "id": 4
+    },
+    {
+      "category": "Nước hoa nam cao cấp",
+      "id": 5
+    }
+  ],
+  "news": [
+    {
+      "title": "ấdasdas",
+      "desc": "ádqwerwegtery",
+      "img": "http://res.cloudinary.com/vucongluc/image/upload/v1645013345/fupn4pqqzejiaaoq7q7y.png",
+      "creator": "Vũ Công Lực",
+      "id": 1,
+      "like": 1
+    },
+    {
+      "id": 2,
+      "img": "http://res.cloudinary.com/vucongluc/image/upload/v1645547699/gquspfzl82eyg9hjbfin.jpg",
+      "title": "hey onl bạn ơi demo tý",
+      "desc": "hạgdsaaaaaaasaj"
+    }
+  ],
+  "oders": [
+    {
+      "id": 1,
+      "ame": "Vũ Công Lực",
+      "phone": "0978942425",
+      "address": "Hà Nội",
+      "dateTime": "22-2-2022 20:33:5",
+      "cart_sum": 4642,
+      "gia": "2321",
+      "so_luong": 2,
+      "product": "12312321",
+      "id_product": "2h0FzLW",
+      "status": "0"
+    },
+    {
+      "id": 2,
+      "ame": "Vũ Công Lực",
+      "phone": "0978942425",
+      "address": "Hà Nội",
+      "dateTime": "22-2-2022 20:33:5",
+      "cart_sum": 45435435,
+      "gia": "45435435",
+      "so_luong": 1,
+      "product": "214324",
+      "id_product": "BhOQi0m",
+      "status": "0"
+    },
+    {
+      "id": 3,
+      "ame": "Vũ Công Lực",
+      "phone": "0978942425",
+      "address": "Hà Nội",
+      "dateTime": "23-2-2022 9:56:0",
+      "cart_sum": 250000,
+      "gia": "250000",
+      "so_luong": 1,
+      "product": "Gucci Bloom Deluxe Edition EDP",
+      "id_product": "-O_ywck",
+      "status": "3"
+    },
+    {
+      "id": 4,
+      "ame": "Vũ Công Lực",
+      "phone": "0978942425",
+      "address": "Hà Nội",
+      "dateTime": "23-2-2022 9:57:29",
+      "cart_sum": 250000,
+      "gia": "250000",
+      "so_luong": 1,
+      "product": "Gucci Bloom Deluxe Edition EDP",
+      "email": "3winacc1@gmail.com",
+      "id_product": "-O_ywck",
+      "status": "3"
+    },
+    {
+      "ame": "Vũ Công Lực",
+      "phone": "0978942425",
+      "address": "Hà Nội",
+      "dateTime": "23-2-2022 10:12:52",
+      "cart_sum": 250000,
+      "gia": "250000",
+      "so_luong": 1,
+      "product": "Gucci Bloom Deluxe Edition EDP",
+      "id_product": "-O_ywck",
+      "status": 0,
+      "email": "3winacc1@gmail.com",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "ame": "Vũ Công Lực",
+      "phone": "0978942425",
+      "address": "Hà Nội",
+      "dateTime": "23-2-2022 10:13:50",
+      "cart_sum": 250000,
+      "gia": "250000",
+      "so_luong": 1,
+      "product": "Gucci Bloom Deluxe Edition EDP",
+      "email": "3winacc2@gmail.com",
+      "id_product": "-O_ywck",
+      "status": "3"
+    }
+  ]
+}
